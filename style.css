@@ -1,0 +1,35 @@
+legend
+{
+    font-size: larger;
+}
+
+body
+{
+    padding-left: 5px;
+    font-family: oswald, sans-serif;
+    background-color: darkslategray;
+}
+
+h2
+{
+    padding-bottom: 2px;
+}
+
+legend
+{
+    padding-bottom: 10px;
+}
+
+#bmiform
+{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1
+{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
